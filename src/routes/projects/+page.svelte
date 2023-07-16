@@ -45,13 +45,13 @@
 											>
 												<li>
 													<a
-														class="relative block px-3 py-2 transition hover:text-red-500 dark:hover:text-red-400"
+														class="relative block px-3 py-2 transition hover:text-red-400 dark:hover:text-red-400"
 														href="/about">About</a
 													>
 												</li>
 												<li>
 													<a
-														class="relative block px-3 py-2 transition text-red-500 dark:text-red-400"
+														class="relative block px-3 py-2 transition text-red-400 dark:text-red-400"
 														href="/projects"
 														>Projects<span
 															class="absolute inset-x-1 -bottom-px h-px bg-gradient-to-r from-red-500/0 via-red-500/40 to-red-500/0 dark:from-red-400/0 dark:via-red-400/40 dark:to-red-400/0"
@@ -121,7 +121,7 @@
 											stop shop for seeking out new recipes to try.
 										</p>
 										<p
-											class="relative z-10 mt-6 flex text-sm font-medium text-zinc-400 transition group-hover:text-red-500 dark:text-zinc-200"
+											class="relative z-10 mt-6 flex text-sm font-medium text-zinc-400 transition group-hover:text-red-400 dark:text-zinc-200"
 										>
 											<svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 flex-none"
 												><path
@@ -162,7 +162,7 @@
 											visualied with ChartJS.
 										</p>
 										<p
-											class="relative z-10 mt-6 flex text-sm font-medium text-zinc-400 transition group-hover:text-red-500 dark:text-zinc-200"
+											class="relative z-10 mt-6 flex text-sm font-medium text-zinc-400 transition group-hover:text-red-400 dark:text-zinc-200"
 										>
 											<svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 flex-none"
 												><path
@@ -204,7 +204,7 @@
 											offers unique designs for a new generation.
 										</p>
 										<p
-											class="relative z-10 mt-6 flex text-sm font-medium text-zinc-400 transition group-hover:text-red-500 dark:text-zinc-200"
+											class="relative z-10 mt-6 flex text-sm font-medium text-zinc-400 transition group-hover:text-red-400 dark:text-zinc-200"
 										>
 											<svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 flex-none"
 												><path
@@ -245,7 +245,7 @@
 											home.
 										</p>
 										<p
-											class="relative z-10 mt-6 flex text-sm font-medium text-zinc-400 transition group-hover:text-red-500 dark:text-zinc-200"
+											class="relative z-10 mt-6 flex text-sm font-medium text-zinc-400 transition group-hover:text-red-400 dark:text-zinc-200"
 										>
 											<svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 flex-none"
 												><path
@@ -286,7 +286,7 @@
 											and Non-Alcoholic cocktails to excite your next party.
 										</p>
 										<p
-											class="relative z-10 mt-6 flex text-sm font-medium text-zinc-400 transition group-hover:text-red-500 dark:text-zinc-200"
+											class="relative z-10 mt-6 flex text-sm font-medium text-zinc-400 transition group-hover:text-red-400 dark:text-zinc-200"
 										>
 											<svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 flex-none"
 												><path
@@ -311,10 +311,10 @@
 							<div class="mx-auto max-w-2xl lg:max-w-5xl">
 								<div class="flex flex-col items-center justify-between gap-6 sm:flex-row">
 									<div class="flex gap-6 text-sm font-medium text-zinc-800 dark:text-zinc-200">
-										<a class="transition hover:text-red-500 dark:hover:text-red-400" href="/about"
+										<a class="transition hover:text-red-400 dark:hover:text-red-400" href="/about"
 											>About</a
 										><a
-											class="transition hover:text-red-500 dark:hover:text-red-400"
+											class="transition hover:text-red-400 dark:hover:text-red-400"
 											href="/projects">Projects</a
 										>
 									</div>
