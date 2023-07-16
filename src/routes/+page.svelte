@@ -402,16 +402,51 @@
 														Weber County Utah
 													</dd>
 													<dt class="sr-only">Role</dt>
+													<dd class="text-xs text-zinc-500 dark:text-zinc-400">Web Developer</dd>
+													<dt class="sr-only">Date</dt>
+													<dd
+														class="ml-auto text-xs text-zinc-400 dark:text-zinc-500"
+														aria-label="2023 until Present"
+													>
+														<time datetime="2022">May 2023</time> <span aria-hidden="true">—</span>
+														<time datetime="2023">Present</time>
+													</dd>
+												</dl>
+											</li>
+											<li class="flex gap-4">
+												<div
+													class="bg-zinc-800 relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"
+												>
+													<img
+														alt=""
+														loading="lazy"
+														width="32"
+														height="32"
+														decoding="async"
+														data-nimg="1"
+														class="h-7 w-7"
+														src="images/build.svg"
+													/>
+												</div>
+												<dl class="flex flex-auto flex-wrap gap-x-2">
+													<dt class="sr-only">Company</dt>
+													<dd
+														class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"
+													>
+														Weber County Utah
+													</dd>
+													<dt class="sr-only">Role</dt>
 													<dd class="text-xs text-zinc-500 dark:text-zinc-400">
 														Web Developer Intern
 													</dd>
 													<dt class="sr-only">Date</dt>
 													<dd
 														class="ml-auto text-xs text-zinc-400 dark:text-zinc-500"
-														aria-label="2019 until Present"
+														aria-label="2022 until 2023"
 													>
-														<time datetime="2019">2022</time> <span aria-hidden="true">—</span>
-														<time datetime="2023">Present</time>
+														<time datetime="February 2022">Feb 2022</time>
+														<span aria-hidden="true">—</span>
+														<time datetime="2023">May 2023</time>
 													</dd>
 												</dl>
 											</li>
@@ -445,10 +480,11 @@
 													<dt class="sr-only">Date</dt>
 													<dd
 														class="ml-auto text-xs text-zinc-400 dark:text-zinc-500"
-														aria-label="2014 until 2019"
+														aria-label="2014 until 202"
 													>
-														<time datetime="2014">2015</time> <span aria-hidden="true">—</span>
-														<time datetime="2019">2022</time>
+														<time datetime="2014">Sep 2015</time>
+														<span aria-hidden="true">—</span>
+														<time datetime="2022">Nov 2022</time>
 													</dd>
 												</dl>
 											</li>
